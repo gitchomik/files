@@ -2,24 +2,31 @@
 <rss version="2.0">
     <channel>
         <item>
-            <title>Test4</title>
-            <link>http://10.88.73.33/Video/movie.mp4</link>
+            <title>M1</title>
+            <link>https://manifest.googlevideo.com/api/manifest/hls_playlist/id/eu5PTvpoWeQ.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/gir/yes/dg_shard/ZXU1UFR2cG9XZVEuMQ.95/hls_chunk_host/r2---sn-pj2-2v1l.googlevideo.com/gcr/pl/playlist_type/DVR/mm/32/mn/sn-pj2-2v1l/ms/lv/mv/m/pl/20/dover/3/upn/BO4hUiujLlg/fexp/9405957,9410705,9416126,9418642,9420452,9422596,9423661,9423662,9425429,9425783,9426198,9426943,9427037,9429130,9429739,9430844,9431270/sver/3/mt/1457080206/ip/77.65.92.53/ipbits/0/expire/1457101835/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,gir,dg_shard,hls_chunk_host,gcr,playlist_type,mm,mn,ms,mv,pl/signature/39B9B5029ABE68D16AC669FD35BE82A4887D4156.588071726C0C5C874CFCFF13B2355B056C8ED0C5/key/dg_yt0/playlist/index.m3u8|COMPONENT=HLS</link>
             <description>
-                This one for just test! This video is as same as 'Short movie trailer'. This is a trailer for the new Transformers movie. Lots of robots and people fighting each other. The cinema is comming soon!
-            </description>
-        </item>
-                <item>
-            <title>Test5</title>
-            <link>http://10.88.73.33/Video/Argentina.mp4</link>
-            <description>
-                This one for just test! This video is as same as 'Argentina Football Match'. Goals from a football match. This video is from the UCC demo widget.
+                M1
             </description>
         </item>
         <item>
-            <title>Test6</title>
-            <link>http://10.88.73.33/Video/movie.mp4</link>
+            <title>M2</title>
+            <link>https://manifest.googlevideo.com/api/manifest/hls_playlist/id/U0xnTSpINpE.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/gir/yes/dg_shard/VTB4blRTcElOcEUuMQ.95/hls_chunk_host/r1---sn-pj2-2v1l.googlevideo.com/gcr/pl/playlist_type/DVR/mm/32/mn/sn-pj2-2v1l/ms/lv/mv/m/pl/20/dover/3/upn/WvBNtmjgVms/fexp/9405957,9410705,9416126,9418642,9420452,9422596,9423661,9423662,9425429,9425783,9426198,9426943,9427037,9429130,9429739,9430844,9431270/sver/3/mt/1457080206/ip/77.65.92.53/ipbits/0/expire/1457101838/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,gir,dg_shard,hls_chunk_host,gcr,playlist_type,mm,mn,ms,mv,pl/signature/5AF7272E5534A2E4A5EDC563F839CE5FE9D7F72C.55DDA36EC3495256AF563DC8C3F96CB6D92FE434/key/dg_yt0/playlist/index.m3u8|COMPONENT=HLS</link>
             <description>
-                This one for just test! This video is as same as 'Short movie trailer'. This is a trailer for the new Transformers movie. Lots of robots and people fighting each other. The cinema is comming soon!
+                M2
+            </description>
+        </item>
+        <item>
+            <title>M3</title>
+            <link>https://manifest.googlevideo.com/api/manifest/hls_playlist/id/Lh6MBnDG4Kk.25/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/gir/yes/dg_shard/TGg2TUJuREc0S2suMjU.95/hls_chunk_host/r4---sn-pj2-2v1e.googlevideo.com/playlist_type/LIVE/gcr/pl/mm/32/mn/sn-pj2-2v1e/ms/lv/mv/m/pl/20/dover/3/fexp/9407746,9415327,9416126,9420452,9422596,9423661,9423662,9425282,9426235,9427699,9429131,9429512,9429739/sver/3/upn/Ua--AeH1PJM/mt/1457080386/ip/77.65.92.53/ipbits/0/expire/1457101997/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,gir,dg_shard,hls_chunk_host,playlist_type,gcr,mm,mn,ms,mv,pl/signature/892A182FD3D8A16793D83DA902A5912EC26EBF03.13CDC8015F50785673B259368A89253811EFDEB9/key/dg_yt0/playlist/index.m3u8|COMPONENT=HLS</link>
+            <description>
+                M3
+            </description>
+        </item>
+        <item>
+            <title>M4</title>
+            <link>https://manifest.googlevideo.com/api/manifest/hls_playlist/id/bsk8SLlSHoM.8/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/gir/yes/dg_shard/YnNrOFNMbFNIb00uOA.95/hls_chunk_host/r4---sn-pj2-2v1l.googlevideo.com/playlist_type/LIVE/gcr/pl/mm/32/mn/sn-pj2-2v1l/ms/lv/mv/m/pl/20/dover/3/fexp/9413209,9416075,9416126,9418200,9419451,9420452,9422596,9423661,9423662,9425283,9426679,9428092,9428734,9429018,9429237,9429651,9430032/sver/3/upn/padDxi_QMJI/mt/1457080386/ip/77.65.92.53/ipbits/0/expire/1457102011/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,gir,dg_shard,hls_chunk_host,playlist_type,gcr,mm,mn,ms,mv,pl/signature/3CA521BA2078F5DF85E0972C6232CB8DBFFF39C4.9BD9FD4597DF75EA1563EC00F1CA57014ACB92C2/key/dg_yt0/playlist/index.m3u8|COMPONENT=HLS</link>
+            <description>
+                M4
             </description>
         </item>
     </channel>
