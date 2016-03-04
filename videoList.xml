@@ -1,7 +1,13 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        
+        <item>
+            <title>M0</title>
+            <link>http://88.135.172.249:5080/hls/livestream_str1.m3u8|COMPONENT=HLS</link>
+            <description>
+                M0
+            </description>
+        </item>
         <item>
             <title>Big Bug Bunny</title>
             <link>http://playertest.longtailvideo.com/adaptive/bunny/manifest.m3u8|COMPONENT=HLS</link>
