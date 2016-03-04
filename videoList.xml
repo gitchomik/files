@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <item>
+            <title>Test4</title>
+            <link>http://10.88.73.33/Video/movie.mp4</link>
+            <description>
+                This one for just test! This video is as same as 'Short movie trailer'. This is a trailer for the new Transformers movie. Lots of robots and people fighting each other. The cinema is comming soon!
+            </description>
+        </item>
+                <item>
+            <title>Test5</title>
+            <link>http://10.88.73.33/Video/Argentina.mp4</link>
+            <description>
+                This one for just test! This video is as same as 'Argentina Football Match'. Goals from a football match. This video is from the UCC demo widget.
+            </description>
+        </item>
+        <item>
+            <title>Test6</title>
+            <link>http://10.88.73.33/Video/movie.mp4</link>
+            <description>
+                This one for just test! This video is as same as 'Short movie trailer'. This is a trailer for the new Transformers movie. Lots of robots and people fighting each other. The cinema is comming soon!
+            </description>
+        </item>
+    </channel>
+</rss>
