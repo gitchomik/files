@@ -37,5 +37,40 @@
                 M4
             </description>
         </item>
+        <item>
+            <title>M5</title>
+            <link>rtmp://live.inetstream.pl:1935/rtplive_psz/cam_psz_kosc.stream</link>
+            <description>
+                M5
+            </description>
+        </item>
+        <item>
+            <title>M6</title>
+            <link>rtmp://streaming.airmax.pl:1935/static/wojnowice2</link>
+            <description>
+                M6
+            </description>
+        </item>
+        <item>
+            <title>M7</title>
+            <link>rtmp://37.59.25.72:1945/bociany2/lesnapodlaska.stream</link>
+            <description>
+                M7
+            </description>
+        </item>
+        <item>
+            <title>M8</title>
+            <link>rtmp://kosciol.czyzowice.inetstream.pl:1935/rtplive/cam_cz_kosc.stream</link>
+            <description>
+                M8
+            </description>
+        </item>        
+        <item>
+            <title>M9</title>
+            <link>rtmp://streaming.ustrzyki-dolne.pl:60554/live/kamera_rownia2.stream</link>
+            <description>
+                M9
+            </description>
+        </item>                
     </channel>
 </rss>
