@@ -1,6 +1,14 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
+        
+        <item>
+            <title>Big Bug Bunny</title>
+            <link>http://playertest.longtailvideo.com/adaptive/bunny/manifest.m3u8|COMPONENT=HLS</link>
+            <description>
+                Big Bug Bunny
+            </description>
+        </item>
         <item>
             <title>M1</title>
             <link>https://manifest.googlevideo.com/api/manifest/hls_playlist/id/eu5PTvpoWeQ.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/gir/yes/dg_shard/ZXU1UFR2cG9XZVEuMQ.95/hls_chunk_host/r2---sn-pj2-2v1l.googlevideo.com/gcr/pl/playlist_type/DVR/mm/32/mn/sn-pj2-2v1l/ms/lv/mv/m/pl/20/dover/3/upn/BO4hUiujLlg/fexp/9405957,9410705,9416126,9418642,9420452,9422596,9423661,9423662,9425429,9425783,9426198,9426943,9427037,9429130,9429739,9430844,9431270/sver/3/mt/1457080206/ip/77.65.92.53/ipbits/0/expire/1457101835/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,gir,dg_shard,hls_chunk_host,gcr,playlist_type,mm,mn,ms,mv,pl/signature/39B9B5029ABE68D16AC669FD35BE82A4887D4156.588071726C0C5C874CFCFF13B2355B056C8ED0C5/key/dg_yt0/playlist/index.m3u8|COMPONENT=HLS</link>
