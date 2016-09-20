@@ -9,6 +9,13 @@
             </description>
         </item>
         <item>
+            <title>M0</title>
+            <link>http://88.135.172.249:5080/hls/livestream_str1.m3u8|COMPONENT=HLS</link>
+            <description>
+                test - M0
+            </description>
+        </item>
+        <item>
             <title>M00</title>
             <link>rtmp://91.240.136.60/stream/lancuthdfara</link>
             <description>
